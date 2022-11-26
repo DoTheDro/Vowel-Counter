@@ -1,0 +1,22 @@
+.main-dashboard h1 {
+	font-size: 66px;
+	text-align: center;
+	font-weight: 400;
+}
+
+.main-dashboard form {
+	text-align: center;
+}
+
+.main-dashboard input {
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+.main-dashboard button {
+	background: #1F9644;
+	color: #FFF;
+	border: none;
+	padding: 8px 14px;
+	border-radius: 5px;
+}
